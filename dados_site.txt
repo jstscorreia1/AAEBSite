@@ -1,0 +1,24 @@
+domínio:       aaeb.org.br
+titular:       ASSOCIAçãO DE AMIGOS DOS EXCEPCIONAIS DO BROOKLIN
+c-titular:     ANBEL
+c-técnico:     INT19
+servidor DNS:  ns1.inovarpublicidade.com.br
+status DNS:    20/04/2025 AA
+último AA:     20/04/2025
+servidor DNS:  ns2.inovarpublicidade.com.br
+status DNS:    20/04/2025 AA
+último AA:     20/04/2025
+criado:        15/09/2006 #3060891
+alterado:      07/03/2025
+expiração:     15/09/2026
+status:        Publicado
+
+Contato (ID):  ANBEL
+nome:          ANTONIO BELAMOGLIE
+criado:        14/09/2006
+alterado:      25/04/2023
+
+Contato (ID):  INT19
+nome:          Inovar Tecnologia
+criado:        14/08/2002
+alterado:      17/10/2024

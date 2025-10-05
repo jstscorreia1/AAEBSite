@@ -1,0 +1,24 @@
+#carouselAAEB1 img {
+    max-height: 500px; /* ou o valor que você quiser */
+    object-fit: cover; /* corta e ajusta mantendo o centro */
+    width: 80%;
+  }
+
+  #carouselAAEB img { 
+    max-width: 70%;
+    max-height: 500px;
+    height: auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: grey; /* mude para a cor que quiser */
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%; /* opcional: deixa redondinha */
+  background-size: 80% 80%; /* para o ícone não ficar esticado */
+}
